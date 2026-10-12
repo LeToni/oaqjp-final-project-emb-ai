@@ -1,0 +1,6 @@
+theia@theiadocker-letonise:/home/project/final_project/oaqjp-final-project-emb-ai$ python3 -m unittest test_emotion_detection
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.600s
+
+OK
